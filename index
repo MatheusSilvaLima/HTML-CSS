@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-	 <!-- Meta tags Obrigatórias -->
+	<!-- Meta tags Obrigatórias -->
 	<title>Vereador Neto Despachante - Portal</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -24,7 +24,8 @@
 		</nav>
 	</header>
 	<!-- fim navbar -->
-
+	
+	<!-- banner -->
 	<main>
 		<div id="main-banner">
 			<div id="bg-img"></div>
@@ -36,7 +37,6 @@
 				</div>
 			</div>
 		</div>
-	
 		<!-- banner fim -->
 
 		<!-- Saiba mais info -->
